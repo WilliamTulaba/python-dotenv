@@ -9,3 +9,4 @@ twine
 wheel
 ruff
 pre-commit
+# socket-scan trigger (no functional change)
