@@ -9,3 +9,5 @@ twine
 wheel
 ruff
 pre-commit
+pyyaml==3.13            # demo: known-vuln version
+
